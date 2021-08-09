@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  Hello!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
 <br>
 A enthusiastic individual🙍 who likes to work and learn the challenges of daily work. To be a part of an enthusiastic work environment, where I can use my technical skills to accomplish goals.
@@ -15,7 +15,7 @@ A enthusiastic individual🙍 who likes to work and learn the challenges of dail
 <a href="https://www.linkedin.com/in/priyanka-yadav-88b49b194/">
   <img align='center' alt="Priyanka's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="ttps://t.me/priyanka_008">
+<a href="https://t.me/priyanka_008">
   <img align='center' alt="Priyanka's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/priyanka._.yadavv/">
